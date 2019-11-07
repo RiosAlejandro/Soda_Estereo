@@ -1,0 +1,38 @@
+footer {
+	background-color: black;
+	text-align: center !important;
+}
+.eco {
+	color: yellow !important;
+	text-decoration: underline; 
+}
+.lima {
+	background-color: black !important;
+}
+.alfa {
+	color: black !important;
+	font-size: 20px;
+	text-align: justify;
+}
+.beta{
+	margin-bottom: 40px;
+}
+.oscar { 
+	height: 50px;
+}
+.indian {
+	color: black;
+	font-family: initial;	
+	font-size: 27px;
+}
+p {
+	margin-bottom: none;
+	font-family: auto;
+	text-indent: 5px;
+}
+h1, h2 {
+	text-align: center;
+}
+body {
+	background-image: url(../img/fondos/memphis-mini.png); 
+}

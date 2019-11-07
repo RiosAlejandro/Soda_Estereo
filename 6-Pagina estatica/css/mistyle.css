@@ -1,0 +1,110 @@
+.container {
+	padding: 2px 16px !important;
+}
+
+.flip-card {
+  background-color: transparent;
+  width: 100%;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+}
+
+.alex {
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2) !important;
+	transition: 0.3s !important;
+	width: 100% !important;
+}
+
+.alex:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2) !important;
+}
+
+/*solo estilos para los botones*/
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #F7F40F;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 15px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/*otro tema*/
+.vic {
+	width: 50% !important;
+	vertical-align: text-top !important;
+  
+}
+
+.jumbotron{
+	background-image: url(../img/portada1.jpg) !important;
+	background-size: 100% 100%;
+	width: 100%;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-position: 100% 25%;
+}
+

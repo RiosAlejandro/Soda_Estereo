@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="autor" content="Alejandro Rios">
+
+		<title>Legado soda</title>
+		
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/stylereconocimientos.css">
+		<link rel="stylesheet" href="css/estilos_compartidos.css">
+		<link href="font/fontawesome/css/fontawesome.css" rel="stylesheet">
+   	<link href="font/fontawesome/css/brands.css" rel="stylesheet">
+    <link href="font/fontawesome/css/solid.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<header>
+  			<div class="collapse bg-dark lima" id="navbarHeader">
+    			<div class="container">
+      				<div class="row">
+        				<div class="col-sm-8 col-md-7 py-4">
+          					<h4 class="text-white">Acerca del autor</h4>
+          					<p class="text-muted">Me llamo Oscar Alejandro Rios, soy Técnico Superior en Análisis de Sistemas y por sobre todo una persona curiosa por naturaleza que encontro en el diseño y programación web un mundo fascinante, lo que me llevo a desarrolar esta página, la primera de muchas.</p>
+        				</div>
+        				<div class="col-sm-4 offset-md-1 py-4">
+          					<h4 class="text-white">Contact</h4>
+          					<ul class="list-unstyled">
+            					<li><a href="#" class="text-white">Twitter</a></li>
+            					<li><a href="#" class="text-white">Likedin</a></li>
+            					<li><a href="#" class="text-white">Email</a></li>
+          					</ul>
+        				</div>
+      				</div>
+    			</div>
+  			</div>
+  			<div class="navbar navbar-dark bg-dark shadow-sm lima">
+    			<div class="container d-flex justify-content-between">
+      				<a href="#" class="navbar-brand d-flex align-items-center">
+        				<i class="fas fa-headphones"></i>
+        				<strong>Soda Stereo</strong>
+      				</a>
+      		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+        		<span class="navbar-toggler-icon"></span>
+      		</button>
+    			</div>
+  			</div>
+		</header>
+
+		<div class="container">
+  			<header class="blog-header py-3 oscar">
+    			<div class="row flex-nowrap justify-content-between align-items-center">
+      				<div class="col-8 pt-1 nav-item dropdown ">
+        					<a class="nav-link dropdown-toggle alfa" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menu</a>
+       						 <div class="dropdown-menu" aria-labelledby="dropdown01">
+         					 	<a class="dropdown-item" href="integrantes.php">Integrantes</a>
+         					 	<a class="dropdown-item" href="reconocimientos.php">Reconocimientos</a>
+         					 	<a class="dropdown-item" href="index.php">Discografia</a>
+      						 </div>
+      				</div>
+      				<div class="col-4 d-flex justify-content-end align-items-center">
+        				<a class="text-muted" href="#">
+          					<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24" focusable="false"><title>Buscar</title><circle cx="10.5" cy="10.5" r="7.5"/><path d="M21 21l-5.2-5.2"/></svg>
+        				</a>
+      				</div>
+    			</div>
+  			</header>
+		</div>
+		<hr>
+
+    <div class="container">
+      <div class="jumbotron">
+        
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-1" style="background-color: #F7F40F;">
+          
+        </div>
+        <div class="col-md-10">
+          <h1>Legado</h1>
+          <p>Soda Stereo ha sido considerada como una de las bandas pioneras del rock iberoamericano.</p>
+          <p>Fue la primera banda en salir decididamente de los límites locales de su país de origen y considerar a Iberoamérica como un espacio cultural unificado por el idioma. El resultado fue una popularidad y una identificación generalizada de la juventud latina, por encima de los países, que ya era un hecho para el rock anglosajón, pero no lo era para el rock latino, el rock en español y el rock iberoamericano, distintas variantes de un mismo fenómeno cultural-musical.</p>
+          <p>Soda Stereo abrió camino a la masividad del rock latino al encontrar el modo de romper la disyuntiva "rock vs pop" que desgarró tradicionalmente la música popular latinoamericana, el primero apoyado en los sectores sociales medios y acomodados con fuertes influencias del rock anglosajón y el segundo implantado en los amplios sectores populares y de trabajadores ligados a los ritmos "latinos" y "bailables"; unos y otros despreciándose mutuamente.</p>
+
+          <h1>Récords, logros y datos</h1>
+          <ul>
+          <li><p>Primer grupo musical de Latinoamérica en utilizar el formato de disco compacto (CD) con el álbum Signos(1986).</p></li>
+          <li><p>Primer grupo latinoamericano en tener una transmisión por TV con sonido stereo, durante la presentación de su disco Dynamo en el programa Fax, en el año 1992.</p></li>
+          <li><p>Primer grupo de rock en castellano en presentarse en los Estados Unidos como único grupo del evento.</p></li>
+          <li><p>Más fechas seguidas en el Teatro Gran Rex de Buenos Aires; 14 presentaciones durante la Gira Animal de 1991.</p></li>
+          <li><p>Primera banda en español en realizar una gira por Latinoamérica. Antiguamente los grupos de rock en español rara vez salían de su país de origen y si lo hacían no obtenían mucho éxito. Soda Stereo fue el primer grupo en explotar la idea de expansión por toda la región.</p></li>
+          <li><p>Primera banda iberoamericana en incluir un track interactivo en su material discográfico. En este caso con su álbum del Unplugged de MTV, Comfort y Música Para Volar, del año 1996.</p></li>
+          <li><p>Primera banda iberoamericana en transmitir un concierto vía internet (1996), en el programa argentino de radio Cuál es? de la Rock & Pop.</p></li>
+          <li><p>En su gira Me Verás Volver 2007 alcanzó el récord de realizar seis recitales en el Estadio Monumental de River Plate en la misma gira, superando la marca anterior de cinco.</p></li>
+          <li><p>Antes de la Gira Me Verás Volver, Robbie Williams sostenía el récord de más boletos vendidos en Argentina en menos tiempo (agotó un estadio River Plate en cinco días), pero el récord fue superado por Soda Stereo en 2007 al vender dos estadios River Plate en menos de 24 horas.</p></li>
+          <li><p>En Perú, se logró el «SOLD OUT» en tan solo 5 días de puestas a la venta las entradas, abriéndose una nueva presentación en Lima para el 9 de diciembre del 2007. El grupo de rock reunió 100 mil almas, en las dos fechas que se presentaron, siendo así el concierto pagado más multitudinario en el país.</p></li> 
+          <li><p>Durante la gira Me verás volver 2007 estuvieron presentes en Ecuador 55 000 espectadores en el estadio Modelo Alberto Spencer en Guayaquil. El concierto más grande que se haya dado en la historia del Ecuador.</p></li>
+          <li><p>En Chile es la banda internacional que más gente ha llevado al Estadio Nacional de Chile.</p></li>
+          <li><p>Récord de asistencia a un concierto pago en Venezuela al reunir a más 65 000 fanáticos en el Hipódromo de la Rinconada en Caracas, en 2007, durante la gira Me Verás Volver.</p></li>
+          <li><p>Una de las mayores asistencias a un concierto pago en Colombia al reunir 70 000 personas en el Parque Simón Bolívar de Bogotá, en 2007, durante la gira Me Verás Volver.</p></li>
+          <li><p>Récord de asistencia a un concierto pago en el Estadio Nacional de Panamá, Panamá, con 22.000 espectadores, el 27 de noviembre de 2007.</p></li>
+          <li><p>Récord de asistencia a un concierto pago en Estadio Chateau Carreras de Córdoba, con 65.000 espectadores, el 15 de diciembre de 2007.</p></li>
+          </ul>
+          <h1>Premios</h1>
+          <p>1985 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1985 - NADA PERSONAL - Mejor Tema del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1986 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1986 - SIGNOS - Mejor Álbum del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1986 - PRÓFUGOS - Mejor Tema del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1986 - SODA STEREO - Mejor Grupo en Vivo del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1986 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1986 - SIGNOS - Mejor Álbum del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1986 - SODA STEREO - Mejor Actuación del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1986 - CUANDO PASE EL TEMBLOR - Mejor Videoclip del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1987 - SODA STEREO - Mejor Banda del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1987 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1987 - SODA STEREO - Mejor Actuación en Vivo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1987 - SODA STEREO - Mejor Imagen del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1988 - SODA STEREO - Mejor Banda del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1988 - SODA STEREO EN OBRAS - Mejor Show del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1988 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1988 - DOBLE VIDA - Mejor Álbum del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1988 - LO QUE SANGRA (LA CÚPULA) - Mejor Tema del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1988 - SODA STEREO - Mejor Actuación en Vivo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1988 - SODA STEREO - Mejor Imagen del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1989 - SODA STEREO - Mejor Look del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1989 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1989 - EN LA CIUDAD DE LA FURIA - Mejor Videoclip del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1989 - SODA STEREO - Mejor Imagen del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Banda del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1990 - CANCIÓN ANIMAL - Mejor Disco del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1990 - SODA STEREO EN VÉLEZ - Mejor Show del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1990 - CANCIÓN ANIMAL - Mejor Álbum del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1990 - DE MÚSICA LIGERA - Mejor Tema del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Grupo en Vivo del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Look del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1990 - CANCIÓN ANIMAL - Mejor Álbum del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1990 - DE MÚSICA LIGERA - Mejor Tema del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1990 - DE MÚSICA LIGERA - Mejor Videoclip del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Actuación en Vivo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Imagen del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1990 - SODA STEREO - Mejor Grupo Extranjero del Año, Encuesta Suplemento Rock de Primera, Uruguay.</p>
+          <p>1990 - DE MÚSICA LIGERA - Mejor Tema del Año, Encuesta Suplemento Rock de Primera, Uruguay.</p>
+          <p>1991 - SODA STEREO - Mejor Grupo del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1991 - SODA STEREO - Mejor Grupo en Vivo del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1991 - SODA STEREO - Mejor Look del Año, Encuesta Revista Rock and Pop, Argentina.</p>
+          <p>1991 - SODA STEREO - Mejor Banda del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1991 - EX MIX - Mejor Álbum del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1991 - NO NECESITO VERTE (PARA SABERLO) - Mejor Tema del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1991 - CAE EL SOL - Mejor Videoclip del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1991 - SODA STEREO - Mejor Actuación en Vivo del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1991 - SODA STEREO - Mejor Imagen del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1991 - SODA STEREO - Mejor Grupo Extranjero del Año, Encuesta Suplemento Urbe, Venezuela.</p>
+          <p>1991 - SODA STEREO - Mejor Show de Grupo del Año, Encuesta Suplemento Urbe, Venezuela.</p>
+          <p>1991 - SODA STEREO - Mejor Banda del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1991 - SODA STEREO EN LA 9 DE JULIO - Mejor Show del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1992 - SODA STEREO - Mejor Banda del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1992 - DYNAMO - Mejor Álbum del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1992 - PRIMAVERA 0 - Mejor Tema del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1992 - PRIMAVERA 0 - Mejor Videoclip del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1992 - SODA STEREO - Mejor Imagen del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1995 - SUEÑO STEREO - Mejor Disco del Año, Encuesta Revista Pelo, Argentina.</p>
+          <p>1997 - SODA STEREO - Mejor Banda del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <p>1997 - SODA STEREO EN RIVER - Mejor Show del Año, Encuesta Revista Generación X, Argentina.</p>
+          <p>2007 - SODA STEREO - Mejor Artista del Año, Encuesta Revista Rolling Stone, Argentina.</p>
+          <p>2007 - SODA STEREO EN RIVER - Mejor Show del Año, Encuesta Revista Rolling Stone, Argentina.</p>
+          <p>2007 - SODA STEREO - Mejor Regreso del Año, Encuesta Revista Rolling Stone, Argentina.</p>
+          <p>2007 - SODA STEREO EN RIVER - Mejor Recital del Año, Encuesta Suplemento Sí, Argentina.</p>
+          <h1>Premios</h1>
+          <p>1986 - NADA PERSONAL - Producción Musical del Año, Premio Ripley, Buenos Aires, Argentina.</p>
+          <p>1987 - SODA STEREO - Premio Antorcha de Plata en el Festival de Viña del Mar, Chile.</p>
+          <p>1987 - SIGNOS - Mejor Disco Éxito Pop del Año, Premio Bravo!, Estados Unidos.</p>
+          <p>1987 - SODA STEREO - Mejor Conjunto Rock del Año, Premio Prensario, México.</p>
+          <p>1989 - SODA STEREO - Premio Copa CBS de Plata, Argentina.</p>
+          <p>1989 - SODA STEREO - Mejor Conjunto Pop del Año, Premio Bravo!, Estados Unidos.</p>
+          <p>1991 - SODA STEREO - Mejor Artista Comunicativo del Año, Premio Prondec, Argentina.</p>
+          <p>1995 - SODA STEREO - Mejor Conjunto Rock del Año, Premio Konex, Argentina.</p>
+          <p>1995 - SODA STEREO EN EL GRAN REX - Mejor Diseño Afiche de Espectáculo del Año, Premio Meca, Argentina.</p>
+          <p>1996 - ELLA USÓ MI CABEZA COMO UN REVÓLVER - International Choice Award, Premio MTV, Estados Unidos.</p>
+          <p>2002 - SODA STEREO - Premio Leyenda, Premio MTV Latinoamérica, Estados Unidos.</p>
+          <p>2005 - UNA PARTE DE LA EUFORIA - Mejor DVD del Año, Premio Gardel, Argentina.</p>
+          <p>2006 - EL ÚLTIMO CONCIERTO - Mejor Show de la Historia, Premio Rock and Pop, Argentina.</p>
+          <p>2006 - CANCIÓN ANIMAL - Mejor Álbum de la Historia, Premio Rock and Pop, Argentina.</p>
+          <p>2006 - EL ÚLTIMO CONCIERTO - Mejor DVD del Año, Premio Gardel, Argentina.</p>
+          <p>2007 - SODA STEREO - Mejor Figura Rock del Año, Premio Clarín, Argentina.</p>
+          <p>2008 - SODA STEREO - Personalidad del Año, Premio Capif, Argentina.</p>
+          <p>2008 - ME VERÁS VOLVER - Mejor Gira Reencuentro del Año, Premio MTV Latinoamérica, México.</p>
+          <p>2009 - ME VERÁS VOLVER - Mejor DVD del Año, Premio Gardel, Argentina.</p>
+          <P>2017 - SODA STEREO - Los 10 argentinos del año 2017.</P>
+          <h1>Premios</h1>
+          <p>1987 - CUANDO PASE EL TEMBLOR - Mejor Videoclip del Año, World Festival of Video and TV, México.</p>
+          <p>1996 - ELLA USÓ MI CABEZA COMO UN REVÓLVER - Mejor Videoclip del Año, Premio MTV, Estados Unidos.</p>
+          <p>1996 - ZOOM - Mejor Videoclip de Grupo Rock del Año, Premio MTV, Estados Unidos.</p>
+          <p>1998 - SODA STEREO - Mejor Grupo de Rock del Año, Premio Nuestro Rock, México.</p>
+          <p>2008 - COMFORT Y MÚSICA PARA VOLAR - Mejor DVD del Año, Premio Gardel, Argentina.</p>
+          <p>2009 - ME VERÁS VOLVER EN VIVO - Mejor Álbum Grupo Rock del Año, Premio Gardel, Argentina.</p>
+          <p>2018 - SODA STEREO - Mejor álbum conceptual, Premio Gardel, Argentina.</p>
+        </div>
+        <div class="col-md-1" style="background-color: #F7F40F;">
+          
+        </div>
+      </div>
+    </div>
+    <hr>
+
+    <footer class="footer mt-auto py-3">
+      <div class="container">
+          <span class="text-muted eco">©2019 Copyright: Alejandro Rios</span>
+      </div>
+    </footer>
+    
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+  </body>
+</html>

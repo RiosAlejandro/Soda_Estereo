@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="autor" content="Alejandro Rios">
+
+		<title>Legado soda</title>
+		
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/estilos_compartidos.css">
+    <link href="font/fontawesome/css/fontawesome.css" rel="stylesheet">
+    <link href="font/fontawesome/css/brands.css" rel="stylesheet">
+    <link href="font/fontawesome/css/solid.css" rel="stylesheet">
+
+	</head>
+	<body>
+		<header>
+  			<div class="collapse bg-dark lima" id="navbarHeader">
+    			<div class="container">
+      				<div class="row">
+        				<div class="col-sm-8 col-md-7 py-4">
+          					<h4 class="text-white">Acerca del autor</h4>
+          					<p class="text-muted">Me llamo Oscar Alejandro Rios, soy Técnico Superior en Análisis de Sistemas y por sobre todo una persona curiosa por naturaleza que encontro en el diseño y programación web un mundo fascinante, lo que me llevo a desarrolar esta página, la primera de muchas.</p>
+        				</div>
+        				<div class="col-sm-4 offset-md-1 py-4">
+          					<h4 class="text-white">Contact</h4>
+          					<ul class="list-unstyled">
+            					<li><a href="#" class="text-white">Twitter</a></li>
+            					<li><a href="#" class="text-white">Likedin</a></li>
+            					<li><a href="#" class="text-white">Email</a></li>
+          					</ul>
+        				</div>
+      				</div>
+    			</div>
+  			</div>
+  			<div class="navbar navbar-dark bg-dark shadow-sm lima">
+    			<div class="container d-flex justify-content-between">
+      				<a href="#" class="navbar-brand d-flex align-items-center">
+        				<i class="fas fa-headphones"></i>
+                <strong>Soda Stereo</strong>
+      				</a>
+      		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+        		<span class="navbar-toggler-icon"></span>
+      		</button>
+    			</div>
+  			</div>
+		</header>
+
+		<div class="container">
+  			<header class="blog-header py-3 oscar">
+    			<div class="row flex-nowrap justify-content-between align-items-center">
+      				<div class="col-8 pt-1 nav-item dropdown ">
+        					<a class="nav-link dropdown-toggle alfa" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Menu</a>
+       						 <div class="dropdown-menu" aria-labelledby="dropdown01">
+         					 	<a class="dropdown-item" href="integrantes.php">Integrantes</a>
+         					 	<a class="dropdown-item" href="reconocimientos.php">Reconocimientos</a>
+         					 	<a class="dropdown-item" href="index.php">Discografia</a>
+      						 </div>
+      				</div>
+      				<div class="col-4 d-flex justify-content-end align-items-center">
+        				<a class="text-muted" href="#">
+          					<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24" focusable="false"><title>Buscar</title><circle cx="10.5" cy="10.5" r="7.5"/><path d="M21 21l-5.2-5.2"/></svg>
+        				</a>
+      				</div>
+    				
+    			</div>
+  			</header>
+    </div>
+  	<hr>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-1" style="background-color: #F7F40F;">
+						
+				</div>
+				<div class="col-md-10">
+					<img src="img/1992-Dynamo-Frontal.jpg" alt="1992" style="width: 100%; margin-bottom: 10px">
+					<h1>Dynamo</h1>
+          <p>Dynamo es el sexto álbum de estudio de la banda de rock argentina Soda Stereo. Fue grabado y mezclado en Buenos Aires en el año 1992. En el tiempo de su lanzamiento la recepción por parte del público fue tibia en comparación con el éxito que tuvo el anterior trabajo de la banda, Canción animal. El disco representa un cambio profundo de sonido con respecto a álbumes previos. A lo largo de sus 12 canciones, muestra el interés de la banda por explorar nuevos sonidos, con especial énfasis en el shoegazing, que es el género que domina el disco y del cual este álbum es considerado uno de los más importantes referentes.</p>
+          <p>Dynamo salió al mercado en octubre de 1992 con un estilo muy particular: prevaleció una mezcla de sonidos que iban desde la experimentación hasta lo electrónico.</p>
+          <p>Esta producción de la legendaria banda argentina, es un disco que generó todo tipo de ruidos y miradas a un fenómeno humano y musical que los ponía como ejemplo para el continente nuevamente.</p>
+          <img src="img/1992-Dynamo-Trasera.jpg" alt="1992" style="width: 50%; margin-top: 10px; margin-bottom: 15px; display: block; margin-left: auto; margin-right: auto;">
+          <p>Y en 1992, el 26 de octubre, la espera terminó. Dynamo apareció para armar una nueva historia. Su propia historia. La de una banda que estaba a tono con el mundo y su oferta sonora y que la traía al continente. Pero también para mostrar que una disco adelantado que terminó siendo un conflicto para la banda y para su compañía discográfica.</p>
+          <p>Luego de su presentación, la banda emprendió una gira de respaldo que comenzó por ciudades argentinas. Pasó por Paraguay, Venezuela y México. Y en la mitad de ella, en 1993, la banda cancela las fechas que faltaban y decide tomar un largo descanso. Tan largo que fue hasta 1995 cuando se volvió a escuchar su último disco: Sueño Stereo.</p>
+				</div>
+        <div class="col-md-1" style="background-color: #F7F40F;">
+					
+				</div>
+			</div>
+		</div>
+		<hr>
+
+		<footer class="footer mt-auto py-3">
+ 			<div class="container">
+    			<span class="text-muted eco">©2019 Copyright: Alejandro Rios</span>
+ 			</div>
+		</footer>
+
+		<script src="js/jquery.min.js"></script>
+		<script src="js/popper.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+	</body>
+	
+
+</html>
